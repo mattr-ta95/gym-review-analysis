@@ -11,7 +11,7 @@ A comprehensive Natural Language Processing (NLP) toolkit for analyzing customer
   - LDA (Latent Dirichlet Allocation) for traditional topic modeling
 - **Emotion Analysis**: BERT-based emotion classification
 - **Visualization**: Word clouds, frequency plots, and topic visualizations
-- **Large Language Model Integration**: AI-powered insight generation
+- **Insight Generation**: Template-based actionable recommendations (extensible for LLM integration)
 
 ## Installation
 
@@ -111,9 +111,10 @@ The analyzer expects data in the following format:
 - Focus on negative review emotions
 
 ### 5. Insight Generation
-- AI-powered actionable recommendations
+- Template-based actionable recommendations
 - Business-focused improvement suggestions
 - Data-driven decision support
+- Extensible architecture for future LLM integration
 
 ## Project Structure
 
